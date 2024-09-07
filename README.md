@@ -1,9 +1,12 @@
 ---
-### MariaDB 시작하기 
+### MariaDB 시작하기
+![Maraidb](https://github.com/user-attachments/assets/26163389-1366-4ddc-8482-cc1f9957f53c)
+
+
 구매 링크:https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K712531777&start=pnaver_02
 노션 링크: https://wind-dewberry-ca7.notion.site/db-bed229466fb5478ebbc17b3a5c356b63?pvs=4
 
-src="https://image.aladin.co.kr/product/10992/16/cover500/k712531777_2.jpg"
+
 - mysql을 기반으로한 오픈소스 데이터베이스
 - mysql 과 거의 흡사한 아키텍처를 가지고 있다
 
