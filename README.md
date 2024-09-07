@@ -1,7 +1,6 @@
 ---
 ### MariaDB 시작하기
 ![Maraidb](https://github.com/user-attachments/assets/26163389-1366-4ddc-8482-cc1f9957f53c)
-
 노션 링크: https://wind-dewberry-ca7.notion.site/db-bed229466fb5478ebbc17b3a5c356b63?pvs=4
 
 
