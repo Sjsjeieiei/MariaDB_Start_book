@@ -1,4 +1,4 @@
----
+
 ### MariaDB 시작하기
 ![Maraidb](https://github.com/user-attachments/assets/dd46324b-7c6b-466f-9e36-bd61a875a490)
 
